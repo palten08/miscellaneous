@@ -1,0 +1,68 @@
+{
+    "dockerRootDir": null,
+    "enableClusterAlerting": null,
+    "enableClusterMonitoring": null,
+    "enableNetworkPolicy": null,
+    "windowsPreferedCluster": null,
+    "type": null,
+    "rancherKubernetesEngineConfig": {
+      "addonJobTimeout": null,
+      "ignoreDockerVersion": null,
+      "sshAgentAuth": null,
+      "type": null,
+      "kubernetesVersion": null,
+      "authentication": {
+        "strategy": null,
+        "type": null
+      },
+      "network": {
+        "plugin": null,
+        "type": null,
+        "options": {
+          "flannel_backend_type": null
+        }
+      },
+      "ingress": {
+        "provider": null,
+        "type": null
+      },
+      "monitoring": {
+        "provider": null,
+        "type": null
+      },
+      "services": {
+        "type": null,
+        "kubeApi": {
+          "alwaysPullImages": null,
+          "podSecurityPolicy": null,
+          "serviceNodePortRange": null,
+          "type": null
+        },
+        "etcd": {
+          "creation": null,
+          "extraArgs": {
+            "heartbeat-interval": null,
+            "election-timeout": null
+          },
+          "gid": null,
+          "retention": null,
+          "snapshot": null,
+          "uid": null,
+          "type": null,
+          "backupConfig": {
+            "enabled": null,
+            "intervalHours": null,
+            "retention": null,
+            "safeTimestamp": null,
+            "type": null
+          }
+        }
+      }
+    },
+    "localClusterAuthEndpoint": {
+      "enabled": null,
+      "type": null
+    },
+    "labels": {},
+    "name": null
+}  

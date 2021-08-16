@@ -1,0 +1,11 @@
+{
+  "controlPlane": null,
+  "deleteNotReadyAfterSecs": null,
+  "etcd": null,
+  "quantity": null,
+  "worker": null,
+  "type": null,
+  "clusterId": null,
+  "hostnamePrefix": null,
+  "nodeTemplateId": null
+}

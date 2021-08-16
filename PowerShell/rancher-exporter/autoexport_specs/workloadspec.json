@@ -1,0 +1,26 @@
+{
+  "hostIPC": null,
+  "hostNetwork": null,
+  "hostPID": null,
+  "paused": null,
+  "type": null,
+  "namespaceId": null,
+  "scale": null,
+  "dnsPolicy": null,
+  "restartPolicy": null,
+  "labels": null,
+  "containers": null,
+  "scheduling": {
+    "node": {}
+  },
+  "deploymentConfig": {
+    "minReadySeconds": null,
+    "type": null,
+    "revisionHistoryLimit": null,
+    "strategy": null,
+    "maxSurge": null,
+    "maxUnavailable": null
+  },
+  "name": null,
+  "volumes": []
+}
